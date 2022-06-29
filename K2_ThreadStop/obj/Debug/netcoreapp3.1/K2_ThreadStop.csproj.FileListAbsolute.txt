@@ -1,0 +1,14 @@
+D:\Development\AsyncProgrammierkurs\EigenerCode\AsyncTutorial\K2_Threadstop\bin\Debug\netcoreapp3.1\K2_ThreadStop.exe
+D:\Development\AsyncProgrammierkurs\EigenerCode\AsyncTutorial\K2_Threadstop\bin\Debug\netcoreapp3.1\K2_ThreadStop.deps.json
+D:\Development\AsyncProgrammierkurs\EigenerCode\AsyncTutorial\K2_Threadstop\bin\Debug\netcoreapp3.1\K2_ThreadStop.runtimeconfig.json
+D:\Development\AsyncProgrammierkurs\EigenerCode\AsyncTutorial\K2_Threadstop\bin\Debug\netcoreapp3.1\K2_ThreadStop.runtimeconfig.dev.json
+D:\Development\AsyncProgrammierkurs\EigenerCode\AsyncTutorial\K2_Threadstop\bin\Debug\netcoreapp3.1\K2_ThreadStop.dll
+D:\Development\AsyncProgrammierkurs\EigenerCode\AsyncTutorial\K2_Threadstop\bin\Debug\netcoreapp3.1\K2_ThreadStop.pdb
+D:\Development\AsyncProgrammierkurs\EigenerCode\AsyncTutorial\K2_Threadstop\obj\Debug\netcoreapp3.1\K2_ThreadStop.csproj.AssemblyReference.cache
+D:\Development\AsyncProgrammierkurs\EigenerCode\AsyncTutorial\K2_Threadstop\obj\Debug\netcoreapp3.1\K2_ThreadStop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\AsyncProgrammierkurs\EigenerCode\AsyncTutorial\K2_Threadstop\obj\Debug\netcoreapp3.1\K2_ThreadStop.AssemblyInfoInputs.cache
+D:\Development\AsyncProgrammierkurs\EigenerCode\AsyncTutorial\K2_Threadstop\obj\Debug\netcoreapp3.1\K2_ThreadStop.AssemblyInfo.cs
+D:\Development\AsyncProgrammierkurs\EigenerCode\AsyncTutorial\K2_Threadstop\obj\Debug\netcoreapp3.1\K2_ThreadStop.csproj.CoreCompileInputs.cache
+D:\Development\AsyncProgrammierkurs\EigenerCode\AsyncTutorial\K2_Threadstop\obj\Debug\netcoreapp3.1\K2_ThreadStop.dll
+D:\Development\AsyncProgrammierkurs\EigenerCode\AsyncTutorial\K2_Threadstop\obj\Debug\netcoreapp3.1\K2_ThreadStop.pdb
+D:\Development\AsyncProgrammierkurs\EigenerCode\AsyncTutorial\K2_Threadstop\obj\Debug\netcoreapp3.1\K2_ThreadStop.genruntimeconfig.cache

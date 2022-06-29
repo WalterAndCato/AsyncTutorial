@@ -1,0 +1,5 @@
+D:\Development\AsyncProgrammierkurs\EigenerCode\AsyncTutorial\Kapitel2\obj\Debug\net6.0\Kapitel2.csproj.AssemblyReference.cache
+D:\Development\AsyncProgrammierkurs\EigenerCode\AsyncTutorial\Kapitel2\obj\Debug\net6.0\Kapitel2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\AsyncProgrammierkurs\EigenerCode\AsyncTutorial\Kapitel2\obj\Debug\net6.0\Kapitel2.AssemblyInfoInputs.cache
+D:\Development\AsyncProgrammierkurs\EigenerCode\AsyncTutorial\Kapitel2\obj\Debug\net6.0\Kapitel2.AssemblyInfo.cs
+D:\Development\AsyncProgrammierkurs\EigenerCode\AsyncTutorial\Kapitel2\obj\Debug\net6.0\Kapitel2.csproj.CoreCompileInputs.cache

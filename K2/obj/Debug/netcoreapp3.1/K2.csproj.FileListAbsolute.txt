@@ -1,0 +1,14 @@
+D:\Development\AsyncProgrammierkurs\EigenerCode\AsyncTutorial\K2\bin\Debug\netcoreapp3.1\K2.exe
+D:\Development\AsyncProgrammierkurs\EigenerCode\AsyncTutorial\K2\bin\Debug\netcoreapp3.1\K2.deps.json
+D:\Development\AsyncProgrammierkurs\EigenerCode\AsyncTutorial\K2\bin\Debug\netcoreapp3.1\K2.runtimeconfig.json
+D:\Development\AsyncProgrammierkurs\EigenerCode\AsyncTutorial\K2\bin\Debug\netcoreapp3.1\K2.runtimeconfig.dev.json
+D:\Development\AsyncProgrammierkurs\EigenerCode\AsyncTutorial\K2\bin\Debug\netcoreapp3.1\K2.dll
+D:\Development\AsyncProgrammierkurs\EigenerCode\AsyncTutorial\K2\bin\Debug\netcoreapp3.1\K2.pdb
+D:\Development\AsyncProgrammierkurs\EigenerCode\AsyncTutorial\K2\obj\Debug\netcoreapp3.1\K2.csproj.AssemblyReference.cache
+D:\Development\AsyncProgrammierkurs\EigenerCode\AsyncTutorial\K2\obj\Debug\netcoreapp3.1\K2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\AsyncProgrammierkurs\EigenerCode\AsyncTutorial\K2\obj\Debug\netcoreapp3.1\K2.AssemblyInfoInputs.cache
+D:\Development\AsyncProgrammierkurs\EigenerCode\AsyncTutorial\K2\obj\Debug\netcoreapp3.1\K2.AssemblyInfo.cs
+D:\Development\AsyncProgrammierkurs\EigenerCode\AsyncTutorial\K2\obj\Debug\netcoreapp3.1\K2.csproj.CoreCompileInputs.cache
+D:\Development\AsyncProgrammierkurs\EigenerCode\AsyncTutorial\K2\obj\Debug\netcoreapp3.1\K2.dll
+D:\Development\AsyncProgrammierkurs\EigenerCode\AsyncTutorial\K2\obj\Debug\netcoreapp3.1\K2.pdb
+D:\Development\AsyncProgrammierkurs\EigenerCode\AsyncTutorial\K2\obj\Debug\netcoreapp3.1\K2.genruntimeconfig.cache
